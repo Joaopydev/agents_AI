@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Joaopydev/server.git
+[submodule "web/web"]
+	path = web/web
+	url = https://github.com/Joaopydev/web.git
